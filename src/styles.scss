@@ -1,4 +1,7 @@
 @use './app/scss/variables.scss';
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+@import "primeicons/primeicons.css";
